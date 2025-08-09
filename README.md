@@ -31,10 +31,12 @@ A modern, responsive freelancer portfolio website built with Next.js, TypeScript
 
 
 ## Responsive Breakpoints
-
 - **Mobile**: < 640px
+![MOBILE](https://github.com/user-attachments/assets/e050e5fd-f8fc-4053-adb8-b42cc4304845)
 - **Tablet**: 640px - 1024px  
 - **Desktop**: > 1024px
+<img width="1894" height="907" alt="image" src="https://github.com/user-attachments/assets/8c717eff-aa7e-4b0e-a52f-44d6a80e31ce" />
+
 
 ## Tech Stack
 
