@@ -19,12 +19,16 @@ A modern, responsive freelancer portfolio website built with Next.js, TypeScript
 - Floating background animations
 - Mobile-first navigation with hamburger menu
 - Call-to-action buttons with hover effects
+<img width="1431" height="837" alt="image" src="https://github.com/user-attachments/assets/67f77b83-ae56-4a69-b445-bef093cb53f6" />
+
 
 ### About Me Section
 - Profile image with gradient background effect
 - Responsive layout that stacks on mobile
 - Professional typography hierarchy
 - Interactive elements with smooth transitions
+<img width="1638" height="800" alt="image" src="https://github.com/user-attachments/assets/fe5fd7dc-e3f9-4373-beb9-d8417ab363eb" />
+
 
 ## Responsive Breakpoints
 
